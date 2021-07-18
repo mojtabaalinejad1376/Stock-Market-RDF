@@ -1,0 +1,186 @@
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Ronald_Wayne> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Steve_Jobs> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Steve_Wozniak> .
+<http://dbpedia.org/resource/Adobe_Inc.> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Charles_Geschke> .
+<http://dbpedia.org/resource/Adobe_Inc.> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/John_Warnock> .
+<http://dbpedia.org/resource/Analog_Devices> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Ray_Stata> .
+<http://dbpedia.org/resource/Analog_Devices> <http://dbpedia.org/property/founders> "Matthew Lorber" .
+<http://dbpedia.org/resource/ADP_(company)> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Henry_Taub> .
+<http://dbpedia.org/resource/Autodesk> <http://dbpedia.org/property/founders> "John Walker" .
+<http://dbpedia.org/resource/Autodesk> <http://dbpedia.org/property/founders> "Dan Drake" .
+<http://dbpedia.org/resource/American_Electric_Power> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Nick_Akins> .
+<http://dbpedia.org/resource/Align_Technology> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Zia_Chishti> .
+<http://dbpedia.org/resource/Align_Technology> <http://dbpedia.org/property/founders> "Kelsey Wirth" .
+<http://dbpedia.org/resource/Alexion_Pharmaceuticals> <http://dbpedia.org/property/founders> "Leonard Bell" .
+<http://dbpedia.org/resource/Applied_Materials> <http://dbpedia.org/property/founders> "Michael A. McNeilly" .
+<http://dbpedia.org/resource/Advanced_Micro_Devices> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Jerry_Sanders_(businessman)> .
+<http://dbpedia.org/resource/Amgen> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Robert_A._Bradway> .
+<http://dbpedia.org/resource/Amazon_(company)> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Jeff_Bezos> .
+<http://dbpedia.org/resource/Ansys> <http://dbpedia.org/property/founders> "Ajei S. Gopal" .
+<http://dbpedia.org/resource/Ansys> <http://dbpedia.org/property/founders> "Ronald W. Hovsepian" .
+<http://dbpedia.org/resource/ASML_Holding> <http://dbpedia.org/property/founders> "Peter Wennink" . 
+<http://dbpedia.org/resource/ASML_Holding> <http://dbpedia.org/property/founders> "Gerard Kleisterlee" . 
+<http://dbpedia.org/resource/Activision_Blizzard> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Bobby_Kotick> .
+<http://dbpedia.org/resource/Activision_Blizzard> <http://dbpedia.org/property/founders> "Brian Kelly" .
+<http://dbpedia.org/resource/Activision_Blizzard> <http://dbpedia.org/property/founders> "Daniel Alegre" .
+<http://dbpedia.org/resource/Activision_Blizzard> <http://dbpedia.org/property/founders> "Dennis Durkin" .
+<http://dbpedia.org/resource/Broadcom_Inc.> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Tan_Hock_Eng> .
+<http://dbpedia.org/resource/Broadcom_Inc.> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Henry_Samueli> .
+<http://dbpedia.org/resource/Baidu> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Robin_Li> .
+<http://dbpedia.org/resource/Baidu> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Eric_Xu> .
+<http://dbpedia.org/resource/Biogen> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Charles_Weissmann> .
+<http://dbpedia.org/resource/Biogen> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Kenneth_Murray_(biologist)> .
+<http://dbpedia.org/resource/Biogen> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Walter_Gilbert> .
+<http://dbpedia.org/resource/Biogen> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Phillip_Allen_Sharp> .
+<http://dbpedia.org/resource/Booking_Holdings> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Jay_S._Walker> .
+<http://dbpedia.org/resource/Cadence_Design_Systems> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Lip-Bu_Tan> .
+<http://dbpedia.org/resource/CDW> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Michael_Krasny_(businessman)> .
+<http://dbpedia.org/resource/Cerner> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Neal_Patterson> .
+<http://dbpedia.org/resource/Check_Point> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Gil_Shwed> .
+<http://dbpedia.org/resource/Check_Point> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Shlomo_Kramer> .
+<http://dbpedia.org/resource/Check_Point> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Marius_Nacht> .
+<http://dbpedia.org/resource/Charter_Communications> <http://dbpedia.org/property/founders> "Howard Wood" .
+<http://dbpedia.org/resource/Charter_Communications> <http://dbpedia.org/property/founders> "Barry Babcock" .
+<http://dbpedia.org/resource/Charter_Communications> <http://dbpedia.org/property/founders> "Jerald Kent" .
+<http://dbpedia.org/resource/Comcast> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Ralph_J._Roberts> .
+<http://dbpedia.org/resource/Costco> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Jeffrey_Brotman> .
+<http://dbpedia.org/resource/Costco> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/James_Sinegal> .
+<http://dbpedia.org/resource/Copart> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Willis_Johnson> .
+<http://dbpedia.org/resource/Cisco_Systems> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Leonard_Bosack> .
+<http://dbpedia.org/resource/Cisco_Systems> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Sandy_Lerner> .
+<http://dbpedia.org/resource/Cintas> <http://dbpedia.org/property/founders> "Richard Farmer" .
+<http://dbpedia.org/resource/Cognizant> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Kumar_Mahadeva> .
+<http://dbpedia.org/resource/Cognizant> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Francisco_D'Souza> .
+<http://dbpedia.org/resource/Dollar_Tree> <http://dbpedia.org/property/founders> "Joseph Calvano" .
+<http://dbpedia.org/resource/Electronic_Arts> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Trip_Hawkins> .
+<http://dbpedia.org/resource/EBay> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Pierre_Omidyar> .
+<http://dbpedia.org/resource/Fox_Corporation> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Rupert_Murdoch> .
+<http://dbpedia.org/resource/Alphabet_Inc.> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Sergey_Brin> .
+<http://dbpedia.org/resource/Alphabet_Inc.> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Larry_Page> .
+<http://dbpedia.org/resource/Illumina,_Inc.> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Larry_Bock> .
+<http://dbpedia.org/resource/Illumina,_Inc.> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Anthony_Czarnik> .
+<http://dbpedia.org/resource/Illumina,_Inc.> <http://dbpedia.org/property/founders> "David Walt" .
+<http://dbpedia.org/resource/Illumina,_Inc.> <http://dbpedia.org/property/founders> "John Stuelpnagel" .
+<http://dbpedia.org/resource/Illumina,_Inc.> <http://dbpedia.org/property/founders> "Mark Chee" .
+<http://dbpedia.org/resource/Intel> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Gordon_Moore> .
+<http://dbpedia.org/resource/Intel> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Robert_Noyce> .
+<http://dbpedia.org/resource/JD.com> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Liu_Qiangdong> .
+<http://dbpedia.org/resource/CSX_Corporation> <http://dbpedia.org/property/founders> "James M. Foote" .
+<http://dbpedia.org/resource/CSX_Corporation> <http://dbpedia.org/property/founders> "John J. Zillmer" .
+<http://dbpedia.org/resource/DocuSign> <http://dbpedia.org/property/founders> "Maggie Wilderotter" .
+<http://dbpedia.org/resource/DocuSign> <http://dbpedia.org/property/founders> "Court Lorenzini" .
+<http://dbpedia.org/resource/DocuSign> <http://dbpedia.org/property/founders> "Daniel Springer" .
+<http://dbpedia.org/resource/DocuSign> <http://dbpedia.org/property/founders> "Tom Gonser" .
+<http://dbpedia.org/resource/Dexcom> <http://dbpedia.org/property/founders> "Kevin Sayer" .
+<http://dbpedia.org/resource/Exelon> <http://dbpedia.org/property/founders> "Christopher Crane" .
+<http://dbpedia.org/resource/Fastenal> <http://dbpedia.org/property/founders> "Daniel L. Florness" .
+<http://dbpedia.org/resource/Fastenal> <http://dbpedia.org/property/founders> "Holden Lewis" .
+<http://dbpedia.org/resource/Fastenal> <http://dbpedia.org/property/founders> "Lee Hein" .
+<http://dbpedia.org/resource/Fiserv> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Frank_Bisignano> .
+<http://dbpedia.org/resource/Fiserv> <http://dbpedia.org/property/founders> "Guy Chiarello" .
+<http://dbpedia.org/resource/Fiserv> <http://dbpedia.org/property/founders> "Jeffery Yabuki" .
+<<http://dbpedia.org/resource/Fiserv> <http://dbpedia.org/property/founders> "Robert W. Hau" .
+<http://dbpedia.org/resource/Gilead_Sciences> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Tom%C3%A1%C5%A1_Cihl%C3%A1%C5%99> .
+<http://dbpedia.org/resource/Gilead_Sciences> <http://dbpedia.org/property/founders> "Daniel O'Day" .
+<http://dbpedia.org/resource/Gilead_Sciences> <http://dbpedia.org/property/founders> "Andrew Dickinson" .
+<http://dbpedia.org/resource/Idexx_Laboratories> <http://dbpedia.org/property/founders> "Brian P. McKeon" .
+<http://dbpedia.org/resource/Idexx_Laboratories> <http://dbpedia.org/property/founders> "Jay Mazelsky" .
+<http://dbpedia.org/resource/Idexx_Laboratories> <http://dbpedia.org/property/founders> "Lawrence D. Kingsley" .
+<http://dbpedia.org/resource/Illumina,_Inc.> <http://dbpedia.org/property/founders> "Francis deSouza" .
+<http://dbpedia.org/resource/Illumina,_Inc.> <http://dbpedia.org/property/founders> "Jay Flatley" .
+<http://dbpedia.org/resource/Illumina,_Inc.> <http://dbpedia.org/property/founders> "Sam Samad" .
+<http://dbpedia.org/resource/Incyte> <http://dbpedia.org/property/founders> "Hervé Hoppenot" .
+<http://dbpedia.org/resource/Intuitive_Surgical> <http://dbpedia.org/property/founders> "Gary S. Guthart" .
+<http://dbpedia.org/resource/Intuitive_Surgical> <http://dbpedia.org/property/founders> "Lonnie M. Smith" .
+<http://dbpedia.org/resource/JD.com> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Liu_Qiangdong> .
+<http://dbpedia.org/resource/Keurig_Dr_Pepper> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Bob_Stiller> .
+<http://dbpedia.org/resource/Kraft_Heinz> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Alex_Behring> .
+<http://dbpedia.org/resource/Kraft_Heinz> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Miguel_Patricio> .
+<http://dbpedia.org/resource/Kraft_Heinz> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Paulo_Basilio> .
+<http://dbpedia.org/resource/Kraft_Heinz> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/John_T._Cahill_(businessman)> .
+<http://dbpedia.org/resource/KLA_Corporation> <http://dbpedia.org/property/founders> "Edward W. Barnholt" .
+<http://dbpedia.org/resource/KLA_Corporation> <http://dbpedia.org/property/founders> "Richard P. Wallace" .
+<http://dbpedia.org/resource/Lam_Research> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/David_K._Lam> .
+<http://dbpedia.org/resource/Lam_Research> <http://dbpedia.org/property/founders> "Stephen G. Newberry" .
+<http://dbpedia.org/resource/Lam_Research> <http://dbpedia.org/property/founders> "Tim Archer" .
+<http://dbpedia.org/resource/Lululemon_Athletica> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Chip_Wilson> .
+<http://dbpedia.org/resource/Marriott_International> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Alice_Marriott> .
+<http://dbpedia.org/resource/Marriott_International> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/J._Willard_Marriott> .
+<http://dbpedia.org/resource/Microchip_Technology> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Steve_Sanghi> .
+<http://dbpedia.org/resource/Mondelez_International> <http://dbpedia.org/property/founders> "Thomas H. McInnerney" .
+<http://dbpedia.org/resource/MercadoLibre> <http://dbpedia.org/property/founders> "Marcos Galperin" .
+<http://dbpedia.org/resource/Monster_Beverage> <http://dbpedia.org/property/founders> "Hubert Hansen" .
+<http://dbpedia.org/resource/Moderna> <http://dbpedia.org/property/founders> <http://en.wikipedia.org/wiki/Derrick_Rossi> .
+<http://dbpedia.org/resource/Moderna> <http://dbpedia.org/property/founders> <http://en.wikipedia.org/wiki/Timothy_A._Springer> .
+<http://dbpedia.org/resource/Moderna> <http://dbpedia.org/property/founders> <http://en.wikipedia.org/wiki/Robert_S._Langer> .
+<http://dbpedia.org/resource/Moderna> <http://dbpedia.org/property/founders> <http://en.wikipedia.org/wiki/Kenneth_R._Chien> .
+<http://dbpedia.org/resource/Moderna> <http://dbpedia.org/property/founders> <http://en.wikipedia.org/wiki/Noubar_Afeyan> .
+<http://dbpedia.org/resource/Marvell_Technology_Group> <http://dbpedia.org/property/founders> "Sehat Sutardja" .
+<http://dbpedia.org/resource/Marvell_Technology_Group> <http://dbpedia.org/property/founders> "Weili Dai" .
+<http://dbpedia.org/resource/Marvell_Technology_Group> <http://dbpedia.org/property/founders> "Pantas Sutardja" .
+<http://dbpedia.org/resource/Microsoft> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Bill_Gates> .
+<http://dbpedia.org/resource/Microsoft> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Paul_Allen> .
+<http://dbpedia.org/resource/Match_Group> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Shar_Dubey> .
+<http://dbpedia.org/resource/Match_Group> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Joey_Levin> .
+<http://dbpedia.org/resource/Micron_Technology> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Sanjay_Mehrotra> .
+<http://dbpedia.org/resource/Micron_Technology> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Gurtej_Sandhu> .
+<http://dbpedia.org/resource/Micron_Technology> <http://dbpedia.org/property/founders> "Robert E. Switz" .
+<http://dbpedia.org/resource/Maxim_Integrated> <http://dbpedia.org/property/founders> <http://en.wikipedia.org/wiki/Jack_Gifford> .
+<http://dbpedia.org/resource/Maxim_Integrated> <http://dbpedia.org/property/founders> "Fred Beck" .
+<http://dbpedia.org/resource/Maxim_Integrated> <http://dbpedia.org/property/founders> "Dave Bingham" .
+<http://dbpedia.org/resource/Maxim_Integrated> <http://dbpedia.org/property/founders> "Steve Combs" .
+<http://dbpedia.org/resource/Maxim_Integrated> <http://dbpedia.org/property/founders> "Lee Evans" .
+<http://dbpedia.org/resource/Maxim_Integrated> <http://dbpedia.org/property/founders> "Dave Fullagar" .
+<http://dbpedia.org/resource/Maxim_Integrated> <http://dbpedia.org/property/founders> "Roger Fuller" .
+<http://dbpedia.org/resource/Maxim_Integrated> <http://dbpedia.org/property/founders> "Rich Hood" .
+<http://dbpedia.org/resource/Maxim_Integrated> <http://dbpedia.org/property/founders> "Dick Wilenken" .
+<http://dbpedia.org/resource/Netflix> <http://dbpedia.org/property/founders> "Marc Randolph" .
+<http://dbpedia.org/resource/Netflix> <http://dbpedia.org/property/founders> "Reed Hastings" .
+<http://dbpedia.org/resource/NetEase> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Ding_Lei> .
+<http://dbpedia.org/resource/Nvidia> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Curtis_Priem> .
+<http://dbpedia.org/resource/Nvidia> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Jensen_Huang> .
+<http://dbpedia.org/resource/Nvidia> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Chris_Malachowsky> .
+<http://dbpedia.org/resource/NXP_Semiconductors> <http://dbpedia.org/property/founders> "Kurt Sievers" .
+<http://dbpedia.org/resource/Okta> <http://dbpedia.org/property/founders> "Nothing Found" .
+<http://dbpedia.org/resource/O'Reilly_Auto_Parts> <http://dbpedia.org/property/founders> "Charles H. O'Reilly" .
+<http://dbpedia.org/resource/Paychex> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Tom_Golisano> .
+<http://dbpedia.org/resource/Paccar> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Mark_Pigott> .
+<http://dbpedia.org/resource/Pinduoduo> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Colin_Huang> .
+<http://dbpedia.org/resource/PepsiCo> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Caleb_Bradham> .
+<http://dbpedia.org/resource/PayPal> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Braintree_(company)> .
+<http://dbpedia.org/resource/Qualcomm> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Irwin_M._Jacobs> .
+<http://dbpedia.org/resource/Qualcomm> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Andrew_Viterbi> .
+<http://dbpedia.org/resource/Ross_Stores> <http://dbpedia.org/property/founders> "Bill Isackson" .
+<http://dbpedia.org/resource/Ross_Stores> <http://dbpedia.org/property/founders> "Morris Ross" .
+<http://dbpedia.org/resource/Starbucks> <http://dbpedia.org/property/founders> "Gordon Bowker" .
+<http://dbpedia.org/resource/Starbucks> <http://dbpedia.org/property/founders> "Jerry Baldwin" .
+<http://dbpedia.org/resource/Starbucks> <http://dbpedia.org/property/founders> "Zev Siegl" .
+<http://dbpedia.org/resource/Seagen> <http://dbpedia.org/property/founders> "Clay Siegall" .
+<http://dbpedia.org/resource/Sirius_XM> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/David_Margolese> .
+<http://dbpedia.org/resource/Sirius_XM> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Robert_Briskman> .
+<http://dbpedia.org/resource/Sirius_XM> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Martine_Rothblatt> .
+<http://dbpedia.org/resource/Synopsys> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Aart_de_Geus> .
+<http://dbpedia.org/resource/Splunk> <http://dbpedia.org/property/founders> <http://en.wikipedia.org/wiki/Michael_Baum_(entrepreneur)> .
+<http://dbpedia.org/resource/Splunk> <http://dbpedia.org/property/founders> "Rob Das" .
+<http://dbpedia.org/resource/Splunk> <http://dbpedia.org/property/founders> "Erik Swan" .
+<http://dbpedia.org/resource/Skyworks_Solutions> <http://dbpedia.org/property/founders> "Liam Griffin" .
+<http://dbpedia.org/resource/Trip.com> <http://dbpedia.org/property/founders> "Antoine Toffa" .
+<http://dbpedia.org/resource/Atlassian> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Mike_Cannon-Brookes> .
+<http://dbpedia.org/resource/Atlassian> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Scott_Farquhar> .
+<http://dbpedia.org/resource/T-Mobile_US> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/John_W._Stanton> .
+<http://dbpedia.org/resource/Tesla,_Inc.> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Elon_Musk> .
+<http://dbpedia.org/resource/Texas_Instruments> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Cecil_H._Green> .
+<http://dbpedia.org/resource/Texas_Instruments> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Eugene_McDermott> .
+<http://dbpedia.org/resource/Texas_Instruments> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/J._Erik_Jonsson> .
+<http://dbpedia.org/resource/Texas_Instruments> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Patrick_E._Haggerty> .
+<http://dbpedia.org/resource/Verisk_Analytics> <http://dbpedia.org/property/founders> "Scott G. Stephenson" .
+<http://dbpedia.org/resource/Verisign> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/James_Bidzos> .
+<http://dbpedia.org/resource/Vertex_Pharmaceuticals> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Jeffrey_Leiden> .
+<http://dbpedia.org/resource/Vertex_Pharmaceuticals> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Reshma_Kewalramani> .
+<http://dbpedia.org/resource/Walgreens_Boots_Alliance> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/James_A._Skinner> .
+<http://dbpedia.org/resource/Walgreens_Boots_Alliance> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Stefano_Pessina> .
+<http://dbpedia.org/resource/Workday,_Inc.> <http://dbpedia.org/property/founders> "David Duffield" .
+<http://dbpedia.org/resource/Xcel_Energy> <http://dbpedia.org/property/founders> <http://en.wikipedia.org/wiki/Ben_Fowke> .
+<http://dbpedia.org/resource/Xilinx> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Ross_Freeman> .
+<http://dbpedia.org/resource/Xilinx> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Bernie_Vonderschmitt> .
+<http://dbpedia.org/resource/Zoom_Video_Communications> <http://dbpedia.org/property/founders> <http://dbpedia.org/resource/Eric_Yuan> .

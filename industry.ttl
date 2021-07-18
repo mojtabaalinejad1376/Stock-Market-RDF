@@ -1,0 +1,153 @@
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Financial_technology> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Electronic_media> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Semiconductors> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Artificial_intelligence> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Computer_hardware> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Fabless_manufacturing> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Computer_software> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Consumer_electronics> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Digital_distribution> .
+<http://dbpedia.org/resource/Apple_Inc.> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Cloud_computing> .
+<http://dbpedia.org/resource/Adobe_Inc.> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Software> .
+<http://dbpedia.org/resource/Analog_Devices> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Semiconductors> .
+<http://dbpedia.org/resource/ADP_(company)> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Business_service_provider> .
+<http://dbpedia.org/resource/Autodesk> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Software> .
+<http://dbpedia.org/resource/American_Electric_Power> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Electric_Utility> .
+<http://dbpedia.org/resource/Align_Technology> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Orthodontics> .
+<http://dbpedia.org/resource/Alexion_Pharmaceuticals> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Pharmaceutical_industry> .
+<http://dbpedia.org/resource/Applied_Materials> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Semiconductor> .
+<http://dbpedia.org/resource/Advanced_Micro_Devices> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Semiconductor_industry> .
+<http://dbpedia.org/resource/Amgen> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Biotechnology> .
+<http://dbpedia.org/resource/Amazon_(company)> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Artificial_intelligence> .
+<http://dbpedia.org/resource/Amazon_(company)> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Consumer_electronics> .
+<http://dbpedia.org/resource/Amazon_(company)> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Digital_distribution> .
+<http://dbpedia.org/resource/Amazon_(company)> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/E-commerce> .
+<http://dbpedia.org/resource/Amazon_(company)> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Cloud_computing> .
+<http://dbpedia.org/resource/Amazon_(company)> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Self-driving_cars> .
+<http://dbpedia.org/resource/Ansys> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Computer_software> .
+<http://dbpedia.org/resource/ASML_Holding> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Semiconductor_industry> .
+<http://dbpedia.org/resource/Activision_Blizzard> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Video_game_industry> .
+<http://dbpedia.org/resource/Broadcom_Inc.> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Semiconductor> .
+<http://dbpedia.org/resource/Baidu> <http://dbpedia.org/ontology/industry> "Internet" .
+<http://dbpedia.org/resource/Biogen> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Biotechnology> .
+<http://dbpedia.org/resource/Booking_Holdings> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Travel> .
+<http://dbpedia.org/resource/Booking_Holdings> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Technology> .
+<http://dbpedia.org/resource/Cadence_Design_Systems> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Software_&_Programming> .
+<http://dbpedia.org/resource/CDW> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Business-to-business> .
+<http://dbpedia.org/resource/Cerner> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Information_Technology> .
+<http://dbpedia.org/resource/Cerner> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Health_Care> .
+<http://dbpedia.org/resource/Check_Point> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Security_software> .
+<http://dbpedia.org/resource/Check_Point> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Computer_hardware> .
+<http://dbpedia.org/resource/Charter_Communications> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Mass_media> .
+<http://dbpedia.org/resource/Charter_Communications> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Telecommunication> .
+<http://dbpedia.org/resource/Comcast> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Show_business> .
+<http://dbpedia.org/resource/Comcast> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Mass_media> .
+<http://dbpedia.org/resource/Comcast> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Telecommunications_industry> .
+<http://dbpedia.org/resource/Costco> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Retail> .
+<http://dbpedia.org/resource/Copart> <http://dbpedia.org/ontology/industry> "Automotive" .
+<http://dbpedia.org/resource/Cisco_Systems> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Networking_hardware> .
+<http://dbpedia.org/resource/Cisco_Systems> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Networking_software> .
+<http://dbpedia.org/resource/CSX_Corporation> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Real_estate> .
+<http://dbpedia.org/resource/Cintas> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Tertiary_sector_of_the_economy> .
+<http://dbpedia.org/resource/Cognizant> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/IT_service_management> .
+<http://dbpedia.org/resource/Cognizant> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Information_technology_consulting> .
+<http://dbpedia.org/resource/Dollar_Tree> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Retail> .
+<http://dbpedia.org/resource/Dollar_Tree> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Discount_store> .
+<http://dbpedia.org/resource/Dollar_Tree> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Variety_store> .
+<http://dbpedia.org/resource/DocuSign> <http://dbpedia.org/ontology/industry> "Not Found!" .
+<http://dbpedia.org/resource/Dexcom> <http://dbpedia.org/ontology/industry> "Not Found!" .
+<http://dbpedia.org/resource/Electronic_Arts> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Video_game_industry> .
+<http://dbpedia.org/resource/EBay> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/E-commerce> .
+<http://dbpedia.org/resource/Exelon> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Energy_industry> .
+<http://dbpedia.org/resource/Fastenal> <http://dbpedia.org/ontology/industry> "Not Found!" .
+<http://dbpedia.org/resource/Facebook> <http://dbpedia.org/ontology/industry> "Not Found!" .
+<http://dbpedia.org/resource/Fiserv> <http://dbpedia.org/ontology/industry> "Not Found!" .
+<http://dbpedia.org/resource/Fox_Corporation> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Mass_media> .
+<http://dbpedia.org/resource/Gilead_Sciences> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Biotechnology> .
+<http://dbpedia.org/resource/Gilead_Sciences> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Pharmaceutics> .
+<http://dbpedia.org/resource/Alphabet_Inc.> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Conglomerate_(company)> .
+<http://dbpedia.org/resource/Idexx_Laboratories> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Healthcare> .
+<http://dbpedia.org/resource/Illumina,_Inc.> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Biotechnology> .
+<http://dbpedia.org/resource/Incyte> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Pharmaceutical_company> .
+<http://dbpedia.org/resource/Intel> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Semiconductor_industry> .
+<http://dbpedia.org/resource/Intuit> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Enterprise_software> .
+<http://dbpedia.org/resource/Intuitive_Surgical> <http://dbpedia.org/ontology/industry> "Medical Appliances & Equipment" .
+<http://dbpedia.org/resource/JD.com> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Internet> .
+<http://dbpedia.org/resource/JD.com> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Online_retailing> .
+<http://dbpedia.org/resource/Keurig_Dr_Pepper> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Drink_industry> .
+<http://dbpedia.org/resource/Keurig_Dr_Pepper> <http://dbpedia.org/ontology/industry> "Appliance manufacturing" .
+<http://dbpedia.org/resource/Kraft_Heinz> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Food_processing> .
+<http://dbpedia.org/resource/KLA_Corporation> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Semiconductor> .
+<http://dbpedia.org/resource/Lam_Research> <http://dbpedia.org/ontology/industry> "Semiconductors" .
+<http://dbpedia.org/resource/Lululemon_Athletica> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Retail> .
+<http://dbpedia.org/resource/Marriott_International> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Hospitality_industry> .
+<http://dbpedia.org/resource/Microchip_Technology> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Semiconductors> .
+<http://dbpedia.org/resource/Mondelez_International> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Food_processing> .
+<http://dbpedia.org/resource/MercadoLibre> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/E-commerce> .
+<http://dbpedia.org/resource/Monster_Beverage> <http://dbpedia.org/ontology/industry> "Not Found!" .
+<http://dbpedia.org/resource/Moderna> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Biotechnology> .
+<http://dbpedia.org/resource/Marvell_Technology_Group> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Semiconductor> .
+<http://dbpedia.org/resource/Microsoft> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Corporate_venture_capital> .
+<http://dbpedia.org/resource/Microsoft> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Social_networking_service> .
+<http://dbpedia.org/resource/Microsoft> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Internet> .
+<http://dbpedia.org/resource/Microsoft> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Computer_hardware> .
+<http://dbpedia.org/resource/Microsoft> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Consumer_electronics> .
+<http://dbpedia.org/resource/Microsoft> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Video_game_industry> .
+<http://dbpedia.org/resource/Microsoft> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Software_development> .
+<http://dbpedia.org/resource/Microsoft> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Cloud_computing> .
+<http://dbpedia.org/resource/Match_Group> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Online_dating_service> .
+<http://dbpedia.org/resource/Micron_Technology> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Semiconductor> .
+<http://dbpedia.org/resource/Maxim_Integrated> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Semiconductors> .
+<http://dbpedia.org/resource/Netflix> <http://dbpedia.org/ontology/industry> "Tech & Entertainment , mass media" .
+<http://dbpedia.org/resource/NetEase> <http://dbpedia.org/ontology/industry> "Internet" .
+<http://dbpedia.org/resource/Nvidia> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Semiconductors> .
+<http://dbpedia.org/resource/Nvidia> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Artificial_intelligence> .
+<http://dbpedia.org/resource/Nvidia> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Computer_hardware> .
+<http://dbpedia.org/resource/Nvidia> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Consumer_electronics> .
+<http://dbpedia.org/resource/Nvidia> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Video_games> .
+<http://dbpedia.org/resource/NXP_Semiconductors> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Electronics> .
+<http://dbpedia.org/resource/Okta> <http://dbpedia.org/ontology/industry> "Not Fund!" .
+<http://dbpedia.org/resource/O'Reilly_Auto_Parts> <http://dbpedia.org/ontology/industry> "Retail" .
+<http://dbpedia.org/resource/Paychex> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Human_Capital_Management> .
+<http://dbpedia.org/resource/Paychex> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Business_Process_Outsourcing> .
+<http://dbpedia.org/resource/Paccar> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Automotive_industry> .
+<http://dbpedia.org/resource/Pinduoduo> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Internet> .
+<http://dbpedia.org/resource/Tesla,_Inc.> <http://dbpedia.org/ontology/industry> "Not Found!" .
+<http://dbpedia.org/resource/Splunk> <http://dbpedia.org/ontology/industry> "Not Found!" .
+<http://dbpedia.org/resource/Peloton> <http://dbpedia.org/ontology/industry> "Not Found!" .
+<http://dbpedia.org/resource/PepsiCo> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Food_processing> .
+<http://dbpedia.org/resource/PepsiCo> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Drink_industry> .
+<http://dbpedia.org/resource/PayPal> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Financial_services> .
+<http://dbpedia.org/resource/Qualcomm> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Semiconductor> .
+<http://dbpedia.org/resource/Qualcomm> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Telecommunications_equipment> .
+<http://dbpedia.org/resource/Regeneron_Pharmaceuticals> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Pharmaceutical_company> .
+<http://dbpedia.org/resource/Regeneron_Pharmaceuticals> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Biotech_company> .
+<http://dbpedia.org/resource/Ross_Stores> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Retail> .
+<http://dbpedia.org/resource/Starbucks> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Coffeehouse> .
+<http://dbpedia.org/resource/Seagen> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Medication> .
+<http://dbpedia.org/resource/Seagen> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Biotechnology> .
+<http://dbpedia.org/resource/Sirius_XM> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Radio_broadcasting> .
+<http://dbpedia.org/resource/Synopsys> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Software_as_a_service> .
+<http://dbpedia.org/resource/Synopsys> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Software_Testing> .
+<http://dbpedia.org/resource/Synopsys> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Integrated_circuit> .
+<http://dbpedia.org/resource/Synopsys> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Internet_of_Things> .
+<http://dbpedia.org/resource/Synopsys> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Self-driving_car> .
+<http://dbpedia.org/resource/Skyworks_Solutions> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Semiconductor> .
+<http://dbpedia.org/resource/Trip.com> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Information_technology> .
+<http://dbpedia.org/resource/Trip.com> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Hotel> .
+<http://dbpedia.org/resource/Trip.com> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Travel> .
+<http://dbpedia.org/resource/Atlassian> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Software> .
+<http://dbpedia.org/resource/T-Mobile_US> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Telecommunications> .
+<http://dbpedia.org/resource/Verisk_Analytics> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Risk_assessment> .
+<http://dbpedia.org/resource/Verisk_Analytics> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Data_analytics> .
+<http://dbpedia.org/resource/Verisign> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Internet> .
+<http://dbpedia.org/resource/Verisign> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Telecommunication> .
+<http://dbpedia.org/resource/Vertex_Pharmaceuticals> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Internet> .
+<http://dbpedia.org/resource/Vertex_Pharmaceuticals> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Telecommunication> .
+<http://dbpedia.org/resource/Walgreens_Boots_Alliance> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Retail> .
+<http://dbpedia.org/resource/Walgreens_Boots_Alliance> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Pharmaceutical> .
+<http://dbpedia.org/resource/Workday,_Inc.> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Software> .
+<http://dbpedia.org/resource/Workday,_Inc.> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Cloud_computing> .
+<http://dbpedia.org/resource/Xcel_Energy> <http://dbpedia.org/ontology/industry> "Electricity and Natural Gas Utility" .
+<http://dbpedia.org/resource/Xilinx> <http://dbpedia.org/ontology/industry> <http://dbpedia.org/resource/Integrated_circuit> .
+<http://dbpedia.org/resource/Zoom_Video_Communications> <http://dbpedia.org/ontology/industry> "Not Found!" .
